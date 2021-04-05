@@ -16,4 +16,4 @@ Potential updates:
 - Add animation to buffalo legs.
 - Have the agents flee when a character approaches too quickly.
 
-![Herd Behaviour Simulation](https://github.com/rhodriguerrier/herding_simulation/blob/main/herding_example.png?raw=true)
+![Herd Behaviour Simulation](https://github.com/rhodriguerrier/herding_simulation/blob/main/herding_example.PNG?raw=true)
