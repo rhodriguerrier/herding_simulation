@@ -11,7 +11,6 @@ public class GenerateHerd : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Instantiate(prefabBuffalo, new Vector3(0,0,0), Quaternion.identity);
         for (int i = 0; i < herdSize; i++)
         {
             randomPos = new Vector3(
